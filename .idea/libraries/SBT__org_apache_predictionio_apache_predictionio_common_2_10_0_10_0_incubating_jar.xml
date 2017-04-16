@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.predictionio:apache-predictionio-common_2.10:0.10.0-incubating:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.apache.predictionio/apache-predictionio-common_2.10/0.10.0-incubating/jars/apache-predictionio-common_2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
